@@ -1,0 +1,13 @@
+Instance Group, Number of Orders, Number of Workstations, Number of robots, Capacity of put walls, Capacity of robots
+Orders60,60,8,10,16,8
+Orders80,80,8,10,16,8
+Orders100,100,8,10,16,8
+Orders120,120,8,10,16,8
+Orders140,140,8,10,16,8
+Orders160,160,8,10,16,8
+Orders180,180,8,10,16,8
+Orders200,200,8,10,16,8
+Orders220,220,8,10,16,8
+Orders240,240,8,10,16,8
+Orders260,260,8,10,16,8
+Orders280,280,8,10,16,8

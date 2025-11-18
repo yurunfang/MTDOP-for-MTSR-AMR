@@ -1,0 +1,13 @@
+Instance Group, Number of Orders, Number of Workstations, Number of robots, Capacity of put walls, Capacity of robots
+SI1,4,2,1,2,2
+SI2,5,2,2,3,2
+SI3,6,2,3,3,3
+SI4,10,3,3,4,4
+MI1,15,3,4,6,5
+MI2,20,3,5,8,6
+MI3,40,3,6,6,5
+MI4,50,4,6,8,6
+LI1,80,4,6,8,6
+LI2,120,4,8,10,8
+LI3,160,6,6,16,6
+LI4,200,8,10,16,8
